@@ -71,43 +71,43 @@
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest/adal",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest/azure",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest/date",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest/to",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/autorest/validation",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/logger",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/Azure/go-autorest/version",
-			"Comment": "v10.6.2-1-g9e8a8f4bab723d",
-			"Rev": "9e8a8f4bab723dbfa63c4b6fce11909f58391ac9"
+			"Comment": "v11.3.2",
+			"Rev": "7324aa01f00acb1ae6e502ac06e0213cfdf09bdb"
 		},
 		{
 			"ImportPath": "github.com/JeffAshton/win_pdh",
